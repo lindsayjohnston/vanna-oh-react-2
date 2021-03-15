@@ -28,6 +28,10 @@
   color: #61dafb;
 }
 
+a {
+  text-decoration: none;
+}
+
 a:active{
   color: #61dafb;
 }
