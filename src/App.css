@@ -40,6 +40,10 @@ a{
   color: #61dafb;
 }
 
+a:hover{
+  font-weight: bold;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
