@@ -41,7 +41,7 @@ class App extends Component {
               <ul className={styles.Menu}>
                 <li><a rel="noreferrer"  href='https://venmo.com/code?user_id=1619857669881856848' target= "_blank">VENMO (@VANNAOH)</a></li>
                 <li><a rel="noreferrer" href='https://paypal.me/vannaoh?locale.x=en_US' target= "_blank">PAYPAL</a></li>
-                <li><a rel="noreferrer" href='#https://cash.app/vannaoh' target= "_blank">CASHAPP</a></li>
+                <li><a rel="noreferrer" href='https://cash.app/vannaoh' target= "_blank">CASHAPP</a></li>
               </ul>
             </div>
           </ul>
