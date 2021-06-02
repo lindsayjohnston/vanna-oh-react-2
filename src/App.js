@@ -35,7 +35,6 @@ class App extends Component {
             <li><a target="_blank" href="https://vannaoh.bandcamp.com/merch" rel="noreferrer" >MERCH</a></li>
             <li><a rel="noreferrer" target="_blank" href="https://www.youtube.com/watch?v=Hphz0jDpxGU">WATCH</a></li>
             <li><a rel="noreferrer" target="_blank" href="https://open.spotify.com/artist/6hAuQeCv7JIhulgsOHWd3I?si=zYsuG-QSQbSxtjt7fdhDwg">LISTEN</a></li>
-            <li><a rel="noreferrer"  target="_blank" href="https://lindsayjohnston.github.io/vo-robot-interface1/">AI INTERFACE</a></li>
             <li onClick={this.clickHandler}
             className={styles.Clickable}>TIPS</li>
             <div className={this.menuStyle} >
