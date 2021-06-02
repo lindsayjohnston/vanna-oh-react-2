@@ -31,6 +31,7 @@ class App extends Component {
             We are working on making this website real goddamn cool. 
           </p>
           <ul>
+            <li><a rel="noreferrer"  target="_blank" href="https://youtu.be/LdEMuNfoUj0">BNS TUTORIAL</a></li>
             <li><a target="_blank" href="https://vannaoh.bandcamp.com/merch" rel="noreferrer" >MERCH</a></li>
             <li><a rel="noreferrer" target="_blank" href="https://www.youtube.com/watch?v=Hphz0jDpxGU">WATCH</a></li>
             <li><a rel="noreferrer" target="_blank" href="https://open.spotify.com/artist/6hAuQeCv7JIhulgsOHWd3I?si=zYsuG-QSQbSxtjt7fdhDwg">LISTEN</a></li>
